@@ -1,6 +1,6 @@
 
 //feet to mile
-feet to mile
+
 function feetToMile(feet){
 
     var mile = feet/5280;
@@ -10,7 +10,7 @@ function feetToMile(feet){
 }
 var result = feetToMile(31680);
 console.log(result);
-feet to mile
+
 
 
 
