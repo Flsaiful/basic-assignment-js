@@ -1,5 +1,5 @@
 
-/*
+//feet to mile
 feet to mile
 function feetToMile(feet){
 
@@ -11,23 +11,6 @@ function feetToMile(feet){
 var result = feetToMile(31680);
 console.log(result);
 feet to mile
-*/
-
-
-
-/*
-function fruitCalculator(mango, apple){
-
-    var mangoCount = mango * 4;
-    var appleCount = apple * 4;
-    var totalFruit = mangoCount + appleCount;
-    return totalFruit;
-
-
-}
-var fruitResult = fruitCalculator(5, 7);
-console.log(fruitResult);
-*/
 
 
 
