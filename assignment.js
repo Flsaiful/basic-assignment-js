@@ -43,3 +43,6 @@ function brickCalculator(eitFor7Floor, eitFor16Floor, eitFor30Floor){
 }
 var totalresult = brickCalculator(15, 12, 10);
 console.log(totalresult);
+
+
+
